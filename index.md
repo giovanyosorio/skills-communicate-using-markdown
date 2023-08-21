@@ -4,3 +4,7 @@
 
 ![Image of Bitcoin](https://images.barrons.com/im-808982?width=1280&size=1)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
